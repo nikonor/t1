@@ -1,11 +1,31 @@
-> 
 > How to Train For and Run Your First 100 at the Umstead 100
-> 
+# Как тренироваться, чтобы пробежать ваши первые 100 миль на Unstated 100
 > By: Blake Norwood, RD
+## Автор: Blake Norwood, RD
+
+> If you have gotten this far, you are poised to begin the journey towards achieving membership in the Brotherhood and Sisterhood of Hundred Milers. It is an elite society for which there is but one criterion for membership - finishing a 100 mile race. There are many excellent 100 mile events in the United States of which one of them is the Umstead 100 Mile Endurance Run. 
+
+Если вы читаете это, то видимо вы готовы начать свое путешествие к членству в Братстве и Сестричестве Стомильников. Это выдающееся общество людей, для которого сущестсвуте только одно условие членства - финиш в забеге на 100 миль. В США проводится множествое таких забегов, одним из них является [**Umstead 100 Mile Endurance Run**](http://www.umstead100.org/).  
+
+> The Umstead 100 is held annually, usually the first week in April. By its nature, the Umstead 100 attracts many runners attempting to finish their first 100 mile race. 
+
+Umstead 100 проводится ежегодно, обычно в первую неделю апреля. По своей природе Umstead 100 привлекает множество бегунов, чтобы попытаться завершить свои первые 100 миль.
+
+> One of the goals of the Umstead is to help new ultra runners to bridge the quantum leap from 50 mile runs to the mountainous and more rigorous demands of most 100 mile endurance runs. 
+
+Одни из задач Umstead 100 - помочь новым ультра бегунам совершить "квантовый скачек" от забего в 50 миль к горным и более жестким гонкам на 100 миль.
+
 > 
-> If you have gotten this far, you are poised to begin the journey towards achieving membership in the Brotherhood and Sisterhood of Hundred Milers. It is an elite society for which there is but one criterion for membership - finishing a 100 mile race. There are many excellent 100 mile events in the United States of which one of them is the Umstead 100 Mile Endurance Run. The Umstead 100 is held annually, usually the first week in April. By its nature, the Umstead 100 attracts many runners attempting to finish their first 100 mile race. One of the goals of the Umstead is to help new ultra runners to bridge the quantum leap from 50 mile runs to the mountainous and more rigorous demands of most 100 mile endurance runs. It will allow those runners who have difficulty finishing 100 miles in 24 hours or just finishing 100 miles the opportunity to do so when severe topography, heat, and getting lost are removed as major obstacles.
+> It will allow those runners who have difficulty finishing 100 miles in 24 hours or just finishing 100 miles the opportunity to do so when severe topography, heat, and getting lost are removed as major obstacles.
+
+Это позволяет бегунам, которые испытывают сложности в тем, чтобы финишировать 100 миль из 24 часов или просто завершить 100 миль, не смотря на сложности рельефа, жару и возможность заблудиться.
+
+
 > 
 > "Long is the way, and hard, that leads to being a Hundred Miler."
+> 
+## "Долог и труден путь  ктому, чтобы стать Стомильником"
+
 > 
 > Examine your Goals: First, you should examine deep inside of yourself to decide if you have the determination and perseverance necessary to train for and then run a 100 mile race. This is not an undertaking for the faint hearted or those who are not willing to endure pain, suffering and many lonely miles of training. There is no dishonor in simply being a marathoner; less than one percent of all Americans have attained that achievement. Second, do you have the time to commit to the effort? Take the time you devoted to training for a marathon and easily double it. Think of your family, will they support you in this time and energy consuming undertaking? On the plus side, ultra running tends to be a big family undertaking. Many families combine ultra events with family vacations. Third, take on the challenge only for the personal satisfaction you will realize by success, for 99% of ultra runners that is all there is at the attainment of the goal. If you are still with me, you are ready to begin a journey that will culminate in your achieving what will be one of the most satisfying moments you will experience in life. It is an honor that no one can give you. It is an achievement that must be attained the old fashion way; you alone must earn it.
 > 
