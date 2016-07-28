@@ -60,9 +60,35 @@ TK
         
 
 
-    Marathons versus Ultra Running: As you begin your training, it will be assumed that you have completed at least a marathon and your current training would allow you to compete successfully in a marathon. It is further assumed that you are training for or have previously completed a 50 mile event. It is strongly suggested that you stair step your way to competition in a 100 mile event. Most ultra runners move up from being successful marathoners to 50 K and 50 M events prior to participation in a 100 mile event. Ultra running requires runners to learn and hone a different set of skills and knowledge not required in your basic marathon. Not only do you have to train your body physically to run longer distances, you also have to learn about fatigue and pain management over a much longer period of time. Eating and drinking in ultra running are substantially different from a simple marathon and are integral to your success. We lose more novice ultra-marathoners due to inability to eat and drink correctly during the race than we do for simple leg/body fatigue. In a marathon, many, if not most, runners complete the race with fluids alone and very little or no solid food. If you try that in a 100 miler, you
+    Marathons versus Ultra Running: As you begin your training, it will be assumed that you have completed at least a marathon and your current training would allow you to compete successfully in a marathon. 
+**Марафон vs. Ультрамарафон**: Итак, когда вы начинаете подготовку, то вы должны иметь успешний опыт преодаления марафона и быть в состоянии сделать это прямо сейчас. 
+
+    It is further assumed that you are training for or have previously completed a 50 mile event. 
+    It is strongly suggested that you stair step your way to competition in a 100 mile event. 
+    Most ultra runners move up from being successful marathoners to 50 K and 50 M events prior to participation in a 100 mile event. 
+Предполагается, что вы тренируетесь и завершаете гонку на 50 миль. Считается логичным, чтобы развитие ультрамарафонца двигалось постепенно, от успешного марафона, к 50км, потом к 50 милям прежде чем начать подготовку к гонке на 100 миль. 
+
+    Ultra running requires runners to learn and hone a different set of skills and knowledge not required in your basic marathon. 
+Подготовка ультрамарафонца состоит из множества различных навыков и значний, но не основывается на марафоне. 
+
+    Not only do you have to train your body physically to run longer distances, you also have to learn about fatigue and pain management over a much longer period of time. 
+Мало того, что вы должны тренировать свое тело физически, чтобы пробегать более длинные дистанции, но вы также должны узнать все об усталости и боли в течение более длительного периода времени.
+
+    Eating and drinking in ultra running are substantially different from a simple marathon and are integral to your success. 
+Еда и питье в ультра забегах серьезно отличаются от простого марафона и являются очень серьезной частью подготовки.
     
-    will be on the sideline by 50 miles or likely much earlier. It is strongly urged that you hone your ultra running skills by stair stepping up. You will gain both experience and confidence by completing a 50 miler prior to undertaking your first 100 miler.
+    We lose more novice ultra-marathoners due to inability to eat and drink correctly during the race than we do for simple leg/body fatigue. 
+Очень большая часть новичков в ултрамарафоне сходят не из-за неподготовленности тела или ног, а из-за ошибок в питании и питье. 
+
+    In a marathon, many, if not most, runners complete the race with fluids alone and very little or no solid food. 
+В марафоне многие, но не все конечно, бегуны финишируют с очень небольшим или совсем без твердой пищи в животе.  
+
+    If you try that in a 100 miler, youwill be on the sideline by 50 miles or likely much earlier. 
+Если вы попробуете сделать это в забеге на  100 миль, то вы сойдете на 50 миле или ранее. 
+
+    It is strongly urged that you hone your ultra running skills by stair stepping up. You will gain both experience and confidence by completing a 50 miler prior to undertaking your first 100 miler.
+Короче, не стоит пренебрегать более короткими дистанциями на пути к 100 милям. Вы должны иметь опыть финиша на 50 милях, прежде чем пытаться пробежать 100. 
+
     
     "There is never a crowd on the extra mile."
     
