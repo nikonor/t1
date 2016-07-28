@@ -30,6 +30,7 @@ Umstead 100 проводится ежегодно, обычно в первую 
     Examine your Goals: First, you should examine deep inside of yourself to decide if you have the determination and perseverance necessary to train for and then run a 100 mile race. 
     This is not an undertaking for the faint hearted or those who are not willing to endure pain, suffering and many lonely miles of training. 
 
+<абзац>
 **Убедитесь в своих целях:** Во-первых, вам нужно заглянуть глубоко в себя, чтобы решить, хватит ли у вас решимости и упорства для тренировок и гонки на 100 миль. Этот путь не подходит для слабовольных, тех, кто не готов терпеть боль, страдания и множество километров в одиночестве. 
     
     There is no dishonor in simply being a marathoner; less than one percent of all Americans have attained that achievement. 
@@ -52,8 +53,8 @@ TK
 
     If you are still with me, you are ready to begin a journey that will culminate in your achieving what will be one of the most satisfying moments you will experience in life. 
     It is an honor that no one can give you. It is an achievement that must be attained the old fashion way; you alone must earn it.
-Если вы все еще читает, то вы готовы начать путь к одному из самых удивительных и волнующих достижений в вашей жизни. Это одно из тех достижений, что никто не может вам присудить или подарить. К нему придется идти старомодным способом: вы сами должны добиться.
-
+Если вы все еще читает, то вы готовы начать путь к одному из самых удивительных и волнующих достижений в вашей жизни. Это одно из тех достижений, что никто не может вам присудить или подарить. К нему придется идти старомодным способом: вы **сами** должны добиться.
+</абзац>
     
     "Never be afraid to try something new - remember amateurs built the Ark and professionals built the Titanic."
 ## "Никогда не бойся пробовать что-то новое. Помни, ковчег построили любители, а профессионалы - Титаник".
@@ -61,6 +62,7 @@ TK
 
 
     Marathons versus Ultra Running: As you begin your training, it will be assumed that you have completed at least a marathon and your current training would allow you to compete successfully in a marathon. 
+<абзац>    
 **Марафон vs. Ультрамарафон**: Итак, когда вы начинаете подготовку, то вы должны иметь успешний опыт преодаления марафона и быть в состоянии сделать это прямо сейчас. 
 
     It is further assumed that you are training for or have previously completed a 50 mile event. 
@@ -88,25 +90,181 @@ TK
 
     It is strongly urged that you hone your ultra running skills by stair stepping up. You will gain both experience and confidence by completing a 50 miler prior to undertaking your first 100 miler.
 Короче, не стоит пренебрегать более короткими дистанциями на пути к 100 милям. Вы должны иметь опыть финиша на 50 милях, прежде чем пытаться пробежать 100. 
+</абзац>
 
     
     "There is never a crowd on the extra mile."
+## "Не бывает толпы на лишних милях"
     
-    Training: There is no one training plan that is right for all runners. The training plan discussed here is a basic plan that may be tailored for use by each individual. That said, many if not most of the training strategies provided here are utilized by a significant portion of ultra runners, especially those first time 100 mile runners. This training plan is not meant for the front of the pack runners, rather, it is meant for the mid and back of the pack runners. The plan discussed here will be for 100 mile training but can easily be adjusted for first time 50 mile training. The primary difference will be in the length and number of the long runs. The plan and tips contained here have been used by me to train and complete numerous 100 mile races. For your first 100 mile attempt, I suggest at least a six month preparatory training program.
+    Training: There is no one training plan that is right for all runners. 
+<абзац>
+**Тренировки**: Ни один тренировочный план не подходит для всех бегунов.
+
+    The training plan discussed here is a basic plan that may be tailored for use by each individual. 
+В этой статье мы рассматриваем только базовый план, который может быть адаптирован для каждого спортсмена индивидуально. 
+
+    That said, many if not most of the training strategies provided here are utilized by a significant portion of ultra runners, especially those first time 100 mile runners. 
+Тем не менеее, основные страгении и идеи, рассматриваемых здесь, используются большей частью ультрамарафонцев, особенно новичков, готовящихся к первым 100 милям.
+
+    This training plan is not meant for the front of the pack runners, rather, it is meant for the mid and back of the pack runners. 
+Это план, скорее всего, не предназначет для сильнейших бегунов, скорее он подходит тем, кто стартует не с первой линии, а из середины или в самом конце.
+
+    The plan discussed here will be for 100 mile training but can easily be adjusted for first time 50 mile training. 
+План, обсуждаемый тут, предназначен для подготовки к 100 милям, но его легко адаптировать к первой гонке на 50 миль.
+
+    The primary difference will be in the length and number of the long runs. 
+Все различие будет в длине и количестве длинных тренировок. 
+
+    The plan and tips contained here have been used by me to train and complete numerous 100 mile races. 
+Этот план и другие советы был использован автором для подготовки и завершения множества гонок на 100 миль.
+
+    For your first 100 mile attempt, I suggest at least a six month preparatory training program.
+Для первой попытки пробежать 100 миль предполагается подготовка длинной, как минимум, в шесть месяцев. 
+</абзац>
+
+<абзац>    
     
-    First, we will discuss where you need to be a month prior to the race itself. Weekly milage should as a minimum be in the 60 to 70 miles per week range. This is a minimum and for some folks will be in the 70 to 90 mile range.
-    
-    Let's deal with the minimum, 60 to 70 miles. Here is what a typical weekly schedule should look like not later than a month prior to the race. If you can attain this level two months prior to the race, that is so much the better. Each training day will be discussed individually in some detail.
-    
-    Monday - 5 to 10 mile daily run Tuesday - Speed work 5 miles Wednesday - 5 to 10 mile daily run Thursday - Speed walking 5 to 6 miles Friday - 5 mile daily run or rest day Saturday - 35 to 40 mile long run
+    First, we will discuss where you need to be a month prior to the race itself. 
+Во-первых, мы обсудим требования, который должна соответствовать ваша форма за месяц до гонки. 
+
+    Weekly milage should as a minimum be in the 60 to 70 miles per week range. 
+Недельный километраж должен быть в диапазоне от 60 до 70 миль. 
+
+    This is a minimum and for some folks will be in the 70 to 90 mile range.
+Это минимум, многие люди бегают от 70 до 90 миль.     
+
+</абзац>    
+
+<абзац>
+
+    Let's deal with the minimum, 60 to 70 miles. 
+Давайт исходить из минимальных значений, т.е. из 60-70 миль в неделю.
+
+    Here is what a typical weekly schedule should look like not later than a month prior to the race. 
+Рассмотрим, каким должен быть стандартый недельный план не позднее, чем за месяц до гонки.
+
+    If you can attain this level two months prior to the race, that is so much the better. 
+Если вы можете достичь этого за два месяца до, то это даже лучше.
+
+    Each training day will be discussed individually in some detail.
+Каждый тренировочный день будет рассмотрен детально позже.
+
+<br>
+    Monday - 5 to 10 mile daily run
+Пн: 5-10 миль 
+<br>
+
+    Tuesday - Speed work 5 miles 
+Вт: скоростная работа. 5 миль.
+<br>
+
+    Wednesday - 5 to 10 mile daily run 
+Ср: 5-10 миль     
+<br>
+
+    Thursday - Speed walking 5 to 6 miles 
+Чт: скоростная работа. 5-6 миль.
+<br>
+
+    Friday - 5 mile daily run or rest day 
+Пт: 5 миль или день отдыха
+<br>
+
+    Saturday - 35 to 40 mile long run
+Сб: 35-40 миль - длинная.
+<br>
+
     Sunday - Rest day - spend it with your family
-    
-    The long run: The weekly long run is the most important factor in your training plan. The last long run prior to the race should be in the 35 to 40 mile range. Your goal should be to complete the long run and while tired, you should feel that you are strong and could easily continue running, especially after a short 10 minute rest. This is a training run and not a competition. If you are worn out on a 40 mile training run, you have trained too fast. The long run, for the vast portion of the run, should be in an aerobic state. Only on a few large hills should you get to an anaerobic state. If you find that you are in an extended anaerobic state, cut back on the pace. We are practicing to run far, not fast. Occasionally during the long run add in a quarter mile or half mile "frolic" increasing your speed noticeably. This will use other muscles and break the monotony of the long slow run. Some runners prefer to combine the long run with an actual ultra event. Participating in a 50K or 50M event is fine as long as you remember you are in training and not competing. Whatever the event, you want to feel good at the completion of the race; I like to say "used but not used up." I would not participate in any 50M race event within 30 days of the 100 mile race date. Much can be learned in an actual event from both the experience as well as other runners. You must fight the urge to compete; you are training! The exception to the non competition rule is if the event is more than 90 days prior to 100 mile race day. Long runs early in the training program may be in the 15 to 20 mile range working up to the final 35 to 40 mile range over a period of months. The long run distance does not always have to increase each week. Some weeks you may choose to run shorter for a variety of reasons from time available to simple tiredness. A typical weekly long run schedule for a typical month might look like:
-    Week 1 - 20 miles (or possibly less early in the training program) Week 2 - The long run distance from last month's week 4
-    
+Вс: выходой, проведите его со своей семьей. 
+ 
+</абзац>    
+
+<абзац>
+
+    The long run: The weekly long run is the most important factor in your training plan. 
+**Длинная тренировка:** Еженедельная длииная тренировка - важнейший вещь в вашем плане. 
+
+
+    The last long run prior to the race should be in the 35 to 40 mile range. 
+Последеняя длинная тренировка перед забегом должна быть в диапазоне 35-40 миль. 
+
+
+    Your goal should be to complete the long run and while tired, you should feel that you are strong and could easily continue running, especially after a short 10 minute rest. 
+Ваша цель состоит в том, чтобы завершив эту тренировку и устав от нее, с другой стороны вы должны ощущать возможноть продолжить бег, особенно после 10 минутного отдыха.
+
+    This is a training run and not a competition. 
+Ведь это не гонка, а пока только тренировка.     
+
+    If you are worn out on a 40 mile training run, you have trained too fast. 
+Если вы слишком устали на 40 милях, то это значит, что вы бежали слишком быстро.    
+
+    The long run, for the vast portion of the run, should be in an aerobic state. 
+Основная часть длинной тренировки должна проводиться в аэробном режиме. 
+
+    Only on a few large hills should you get to an anaerobic state. 
+И только на некоторых больших подъемах вы можете вылетать в анаэробную зону.
+
+    If you find that you are in an extended anaerobic state, cut back on the pace. 
+    We are practicing to run far, not fast. 
+Если вы ощутили, что превысили свой анаэробный порог, то сразу сбрасывате темп - ведь вы тренируемся для длинного бега, а не для быстрого.    
+
+    Occasionally during the long run add in a quarter mile or half mile "frolic" increasing your speed noticeably. 
+    This will use other muscles and break the monotony of the long slow run. 
+Иногда, кончено, стоит "порезвиться". Включайте в свои длинные тренировки от 400 до 800 метров быстрых. Это позволит использовать другие мышцы и сломать монотонность длинного медленного бега. 
+
+
+    Some runners prefer to combine the long run with an actual ultra event. 
+    Participating in a 50K or 50M event is fine as long as you remember you are in training and not competing. 
+Некоторые бегуны предпочитают совещать свои длинные тренировки с подходящими забегами. И это хорошо пока вы помните, что вы на тренировке, а не на главном забеге.
+
+
+    Whatever the event, you want to feel good at the completion of the race; I like to say "used but not used up." I would not participate in any 50M race event within 30 days of the 100 mile race date. 
+Каким бы не было событие главное, чтобы вы чувствовали себя хорошо после него. Мне нравиться говорить: "вы использовали, а не вас". В любом случаем, никаких гонок на 50М не должно быть за 30 дней до старта на 100М.
+
+    Much can be learned in an actual event from both the experience as well as other runners. 
+Конечно, реальная гонка дает больше опыта, как и общение с другими бегунами во время нее. 
+
+    You must fight the urge to compete; you are training! The exception to the non competition rule is if the event is more than 90 days prior to 100 mile race day. 
+И главное, вы должны бороться с желанием соревноваться, помните: вы на тренировке! Исключения возможны только в том случае, если старт отстоит более чем на 90 дней до гонки на 100М. 
+
+    Long runs early in the training program may be in the 15 to 20 mile range working up to the final 35 to 40 mile range over a period of months. 
+В начале вашей подготовки длинные тренировки должны быть в диапазоне от 15 до 20М. С тем, чтобы в дорасти до 35-40 в течении нескольких месяцев.    
+
+    The long run distance does not always have to increase each week.
+Дистанцию длинных тренировко не нужно увеличивать каждую неделю.      
+
+    Some weeks you may choose to run shorter for a variety of reasons from time available to simple tiredness. 
+В некоторые недели вы можете предпочесть более короткие дистанции. В зависимоти от возможностей и усталости.
+
+    A typical weekly long run schedule for a typical month might look like:
+Вот примерная раскладка длинных тренировок по неделям:
+
+<br>
+
+    Week 1 - 20 miles (or possibly less early in the training program) 
+Неделя 1: 20М (или даже меньше в самом начале подготовки)    
+
+<br>    
+
+    Week 2 - The long run distance from last month's week 4
+Неделя 2: дистанция должна равняться той, что вы пробежали на 4 неделе предыдущего месяца.    
+
+<br>    
+
     Week 3 - Rest day, no long run this week
+Неделя 3: отдых, не нужно бегать длинную на этой неделе.    
+
+<br>
+
     Week 4 - Add 5 miles to this month's week 2 mileage.
+Неделя 4: добавте 5М к дистанции 2 недели этого месяца.    
+
+<br>
+
     Such a schedule would allow you to work up from a 20 mile long run to a 40 mile long run over a period of 4 months.
+Таким образом, вы увеличите свои пробежки с 20м до 40 в течении 4 месяцев.
+
+</абзац>    
     
     Night Runs: At least two of your long runs should be at night. They should start at such time as you will complete the training run in the 3 am to 6 am time period. I suggest that you do this run on a Friday night after a full day at work. Have a nice meal with your family or friends and then after full dark begin your run. If possible, try to find a training venue that will mimic the actual race course. If not available, work on a training course that is tougher than the race course. The night run will let you get some experience for how you will feel running on race night. You can also get experience with different types of light sources and see which you like best. You can also work with different types of clothing for cooler weather as well as how you can best stay awake. For me, simple activity and the caffeine in Pepsi is enough to do the trick. Some folks seem to have a difficult time staying awake after midnight and want to take cat naps. While this works for some folks, the clock is still ticking and the stiffness you experience at the end of the nap is, at best, unpleasant. Do whatever it takes to keep moving and not nap.
     
