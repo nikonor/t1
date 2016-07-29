@@ -5,270 +5,162 @@
     By: Blake Norwood, RD
 
     If you have gotten this far, you are poised to begin the journey towards achieving membership in the Brotherhood and Sisterhood of Hundred Milers. It is an elite society for which there is but one criterion for membership - finishing a 100 mile race. There are many excellent 100 mile events in the United States of which one of them is the Umstead 100 Mile Endurance Run. 
-
-Если вы читаете это, то видимо вы готовы начать свое путешествие к членству в Братстве и Сестричестве Стомильников. Это выдающееся общество людей, для которого сущестсвуте только одно условие членства - финиш в забеге на 100 миль. В США проводится множествое таких забегов, одним из них является [**Umstead 100 Mile Endurance Run**](http://www.umstead100.org/).  
-
     The Umstead 100 is held annually, usually the first week in April. By its nature, the Umstead 100 attracts many runners attempting to finish their first 100 mile race. 
-
-Umstead 100 проводится ежегодно, обычно в первую неделю апреля. По своей природе Umstead 100 привлекает множество бегунов, чтобы попытаться завершить свои первые 100 миль.
-
     One of the goals of the Umstead is to help new ultra runners to bridge the quantum leap from 50 mile runs to the mountainous and more rigorous demands of most 100 mile endurance runs. 
-
-Одни из задач Umstead 100 - помочь новым ультра бегунам совершить "квантовый скачек" от забего в 50 миль к горным и более жестким гонкам на 100 миль.
-
-    
     It will allow those runners who have difficulty finishing 100 miles in 24 hours or just finishing 100 miles the opportunity to do so when severe topography, heat, and getting lost are removed as major obstacles.
 
-Это позволяет бегунам, которые испытывают сложности в тем, чтобы финишировать 100 миль из 24 часов или просто завершить 100 миль, не смотря на сложности рельефа, жару и возможность заблудиться.
+
+Если вы читаете это, то видимо вы готовы начать свое путешествие к членству в Братстве и Сестричестве Стомильников. Это выдающееся общество людей, для которого сущестсвуте только одно условие членства - финиш в забеге на 100 миль. В США проводится множествое таких забегов, одним из них является [**Umstead 100 Mile Endurance Run**](http://www.umstead100.org/). Umstead 100 проводится ежегодно, обычно в первую неделю апреля. По своей природе Umstead 100 привлекает множество бегунов, чтобы попытаться завершить свои первые 100 миль. Одни из задач Umstead 100 - помочь новым ультра бегунам совершить "квантовый скачек" от забего в 50 миль к горным и более жестким гонкам на 100 миль. Это позволяет бегунам, которые испытывают сложности в тем, чтобы финишировать 100 миль из 24 часов или просто завершить 100 миль, не смотря на сложности рельефа, жару и возможность заблудиться. (Примечание переводчика: трасса данной гонки состоит из 8 кругов по 12.5М, поэтому считается, что страх заблудиться на ней отступает).
 
 
     
     "Long is the way, and hard, that leads to being a Hundred Miler."
-    
-## "Долог и труден путь  ктому, чтобы стать Стомильником"
-
     Examine your Goals: First, you should examine deep inside of yourself to decide if you have the determination and perseverance necessary to train for and then run a 100 mile race. 
     This is not an undertaking for the faint hearted or those who are not willing to endure pain, suffering and many lonely miles of training. 
 
-<абзац>
-**Убедитесь в своих целях:** Во-первых, вам нужно заглянуть глубоко в себя, чтобы решить, хватит ли у вас решимости и упорства для тренировок и гонки на 100 миль. Этот путь не подходит для слабовольных, тех, кто не готов терпеть боль, страдания и множество километров в одиночестве. 
-    
     There is no dishonor in simply being a marathoner; less than one percent of all Americans have attained that achievement. 
-
-Нет ничего плохого в том, чтобы быть просто марафонцем: менее 1 процента американцев сумели проедолеть 42.195км. 
-
     Second, do you have the time to commit to the effort? Take the time you devoted to training for a marathon and easily double it. 
-Во-вторых, у вас точно есть время на подготовку? Это займет более чем в два раза больше времени, чем подготовка в марафону. 
-
     Think of your family, will they support you in this time and energy consuming undertaking? 
-Подумайте о своей семье: готовы ли они поддерживать вас в это время в вашем сложной затееЮ
-
     On the plus side, ultra running tends to be a big family undertaking. 
     Many families combine ultra events with family vacations. 
-С другой стороный, если и плюс для семьи. Обычно ультра забеги сочитаются с отпуском и поездокой для всей семьи.
-
     Third, take on the challenge only for the personal satisfaction you will realize by success, for 99% of ultra runners that is all there is at the attainment of the goal. 
-В-третьих, поставив перед собой только персональную цель, в 99%  
-TK
 
     If you are still with me, you are ready to begin a journey that will culminate in your achieving what will be one of the most satisfying moments you will experience in life. 
     It is an honor that no one can give you. It is an achievement that must be attained the old fashion way; you alone must earn it.
+
+    
+## "Долог и труден путь  ктому, чтобы стать Стомильником"
+
+
+**Убедитесь в своих целях:** Во-первых, вам нужно заглянуть глубоко в себя, чтобы решить, хватит ли у вас решимости и упорства для тренировок и гонки на 100 миль. Этот путь не подходит для слабовольных, тех, кто не готов терпеть боль, страдания и множество километров в одиночестве. Нет ничего плохого в том, чтобы быть просто марафонцем: менее 1 процента американцев сумели проедолеть 42.195км. Во-вторых, у вас точно есть время на подготовку? Это займет более чем в два раза больше времени, чем подготовка в марафону. Подумайте о своей семье: готовы ли они поддерживать вас в это время в вашем сложной затееЮ С другой стороный, если и плюс для семьи. Обычно ультра забеги сочитаются с отпуском и поездокой для всей семьи. В-третьих, поставив перед собой только персональную цель, в 99%
+TK
 Если вы все еще читает, то вы готовы начать путь к одному из самых удивительных и волнующих достижений в вашей жизни. Это одно из тех достижений, что никто не может вам присудить или подарить. К нему придется идти старомодным способом: вы **сами** должны добиться.
-</абзац>
     
     "Never be afraid to try something new - remember amateurs built the Ark and professionals built the Titanic."
-## "Никогда не бойся пробовать что-то новое. Помни, ковчег построили любители, а профессионалы - Титаник".
-        
-
-
     Marathons versus Ultra Running: As you begin your training, it will be assumed that you have completed at least a marathon and your current training would allow you to compete successfully in a marathon. 
-<абзац>    
-**Марафон vs. Ультрамарафон**: Итак, когда вы начинаете подготовку, то вы должны иметь успешний опыт преодаления марафона и быть в состоянии сделать это прямо сейчас. 
-
     It is further assumed that you are training for or have previously completed a 50 mile event. 
     It is strongly suggested that you stair step your way to competition in a 100 mile event. 
     Most ultra runners move up from being successful marathoners to 50 K and 50 M events prior to participation in a 100 mile event. 
-Предполагается, что вы тренируетесь и завершаете гонку на 50 миль. Считается логичным, чтобы развитие ультрамарафонца двигалось постепенно, от успешного марафона, к 50км, потом к 50 милям прежде чем начать подготовку к гонке на 100 миль. 
-
     Ultra running requires runners to learn and hone a different set of skills and knowledge not required in your basic marathon. 
-Подготовка ультрамарафонца состоит из множества различных навыков и значний, но не основывается на марафоне. 
-
     Not only do you have to train your body physically to run longer distances, you also have to learn about fatigue and pain management over a much longer period of time. 
-Мало того, что вы должны тренировать свое тело физически, чтобы пробегать более длинные дистанции, но вы также должны узнать все об усталости и боли в течение более длительного периода времени.
-
     Eating and drinking in ultra running are substantially different from a simple marathon and are integral to your success. 
-Еда и питье в ультра забегах серьезно отличаются от простого марафона и являются очень серьезной частью подготовки.
-    
     We lose more novice ultra-marathoners due to inability to eat and drink correctly during the race than we do for simple leg/body fatigue. 
-Очень большая часть новичков в ултрамарафоне сходят не из-за неподготовленности тела или ног, а из-за ошибок в питании и питье. 
-
     In a marathon, many, if not most, runners complete the race with fluids alone and very little or no solid food. 
-В марафоне многие, но не все конечно, бегуны финишируют с очень небольшим или совсем без твердой пищи в животе.  
-
     If you try that in a 100 miler, youwill be on the sideline by 50 miles or likely much earlier. 
-Если вы попробуете сделать это в забеге на  100 миль, то вы сойдете на 50 миле или ранее. 
-
     It is strongly urged that you hone your ultra running skills by stair stepping up. You will gain both experience and confidence by completing a 50 miler prior to undertaking your first 100 miler.
-Короче, не стоит пренебрегать более короткими дистанциями на пути к 100 милям. Вы должны иметь опыть финиша на 50 милях, прежде чем пытаться пробежать 100. 
-</абзац>
+
+## "Никогда не бойся пробовать что-то новое. Помни, ковчег построили любители, а профессионалы - Титаник".
+        
+   
+**Марафон vs. Ультрамарафон**: Итак, когда вы начинаете подготовку, то вы должны иметь успешний опыт преодаления марафона и быть в состоянии сделать это прямо сейчас. Предполагается, что вы тренируетесь и завершаете гонку на 50 миль. Считается логичным, чтобы развитие ультрамарафонца двигалось постепенно, от успешного марафона, к 50км, потом к 50 милям прежде чем начать подготовку к гонке на 100 миль. Подготовка ультрамарафонца состоит из множества различных навыков и значний, но не основывается на марафоне. Мало того, что вы должны тренировать свое тело физически, чтобы пробегать более длинные дистанции, но вы также должны узнать все об усталости и боли в течение более длительного периода времени. Еда и питье в ультра забегах серьезно отличаются от простого марафона и являются очень серьезной частью подготовки. Очень большая часть новичков в ултрамарафоне сходят не из-за неподготовленности тела или ног, а из-за ошибок в питании и питье. В марафоне многие, но не все конечно, бегуны финишируют с очень небольшим или совсем без твердой пищи в животе. Если вы попробуете сделать это в забеге на  100 миль, то вы сойдете на 50 миле или ранее. Короче, не стоит пренебрегать более короткими дистанциями на пути к 100 милям. Вы должны иметь опыть финиша на 50 милях, прежде чем пытаться пробежать 100.
 
     
     "There is never a crowd on the extra mile."
+    Training: There is no one training plan that is right for all runners. 
+    The training plan discussed here is a basic plan that may be tailored for use by each individual. 
+    That said, many if not most of the training strategies provided here are utilized by a significant portion of ultra runners, especially those first time 100 mile runners. 
+    This training plan is not meant for the front of the pack runners, rather, it is meant for the mid and back of the pack runners. 
+    The plan discussed here will be for 100 mile training but can easily be adjusted for first time 50 mile training. 
+    The primary difference will be in the length and number of the long runs. 
+    The plan and tips contained here have been used by me to train and complete numerous 100 mile races. 
+    For your first 100 mile attempt, I suggest at least a six month preparatory training program.
+
+
 ## "Не бывает толпы на лишних милях"
     
-    Training: There is no one training plan that is right for all runners. 
-<абзац>
-**Тренировки**: Ни один тренировочный план не подходит для всех бегунов.
+**Тренировки**: Ни один тренировочный план не подходит для всех бегунов. В этой статье мы рассматриваем только базовый план, который может быть адаптирован для каждого спортсмена индивидуально. Тем не менеее, основные страгении и идеи, рассматриваемых здесь, используются большей частью ультрамарафонцев, особенно новичков, готовящихся к первым 100 милям. Это план, скорее всего, не предназначет для сильнейших бегунов, скорее он подходит тем, кто стартует не с первой линии, а из середины или в самом конце. План, обсуждаемый тут, предназначен для подготовки к 100 милям, но его легко адаптировать к первой гонке на 50 миль. Все различие будет в длине и количестве длинных тренировок. Этот план и другие советы был использован автором для подготовки и завершения множества гонок на 100 миль. Для первой попытки пробежать 100 миль предполагается подготовка длинной, как минимум, в шесть месяцев.
 
-    The training plan discussed here is a basic plan that may be tailored for use by each individual. 
-В этой статье мы рассматриваем только базовый план, который может быть адаптирован для каждого спортсмена индивидуально. 
-
-    That said, many if not most of the training strategies provided here are utilized by a significant portion of ultra runners, especially those first time 100 mile runners. 
-Тем не менеее, основные страгении и идеи, рассматриваемых здесь, используются большей частью ультрамарафонцев, особенно новичков, готовящихся к первым 100 милям.
-
-    This training plan is not meant for the front of the pack runners, rather, it is meant for the mid and back of the pack runners. 
-Это план, скорее всего, не предназначет для сильнейших бегунов, скорее он подходит тем, кто стартует не с первой линии, а из середины или в самом конце.
-
-    The plan discussed here will be for 100 mile training but can easily be adjusted for first time 50 mile training. 
-План, обсуждаемый тут, предназначен для подготовки к 100 милям, но его легко адаптировать к первой гонке на 50 миль.
-
-    The primary difference will be in the length and number of the long runs. 
-Все различие будет в длине и количестве длинных тренировок. 
-
-    The plan and tips contained here have been used by me to train and complete numerous 100 mile races. 
-Этот план и другие советы был использован автором для подготовки и завершения множества гонок на 100 миль.
-
-    For your first 100 mile attempt, I suggest at least a six month preparatory training program.
-Для первой попытки пробежать 100 миль предполагается подготовка длинной, как минимум, в шесть месяцев. 
-</абзац>
-
-<абзац>    
-    
     First, we will discuss where you need to be a month prior to the race itself. 
-Во-первых, мы обсудим требования, который должна соответствовать ваша форма за месяц до гонки. 
-
     Weekly milage should as a minimum be in the 60 to 70 miles per week range. 
-Недельный километраж должен быть в диапазоне от 60 до 70 миль. 
-
     This is a minimum and for some folks will be in the 70 to 90 mile range.
-Это минимум, многие люди бегают от 70 до 90 миль.     
 
-</абзац>    
-
-<абзац>
+Во-первых, мы обсудим требования, который должна соответствовать ваша форма за месяц до гонки. Недельный километраж должен быть в диапазоне от 60 до 70 миль. Это минимум, многие люди бегают от 70 до 90 миль.
 
     Let's deal with the minimum, 60 to 70 miles. 
-Давайт исходить из минимальных значений, т.е. из 60-70 миль в неделю.
-
     Here is what a typical weekly schedule should look like not later than a month prior to the race. 
-Рассмотрим, каким должен быть стандартый недельный план не позднее, чем за месяц до гонки.
-
     If you can attain this level two months prior to the race, that is so much the better. 
-Если вы можете достичь этого за два месяца до, то это даже лучше.
-
     Each training day will be discussed individually in some detail.
-Каждый тренировочный день будет рассмотрен детально позже.
-
-<br>
     Monday - 5 to 10 mile daily run
-Пн: 5-10 миль 
-<br>
 
     Tuesday - Speed work 5 miles 
-Вт: скоростная работа. 5 миль.
-<br>
 
     Wednesday - 5 to 10 mile daily run 
-Ср: 5-10 миль     
-<br>
 
     Thursday - Speed walking 5 to 6 miles 
-Чт: скоростная работа. 5-6 миль.
-<br>
 
     Friday - 5 mile daily run or rest day 
-Пт: 5 миль или день отдыха
-<br>
 
     Saturday - 35 to 40 mile long run
-Сб: 35-40 миль - длинная.
-<br>
 
     Sunday - Rest day - spend it with your family
-Вс: выходой, проведите его со своей семьей. 
- 
-</абзац>    
-
-<абзац>
-
-    The long run: The weekly long run is the most important factor in your training plan. 
-**Длинная тренировка:** Еженедельная длииная тренировка - важнейший вещь в вашем плане. 
 
 
+Давайт исходить из минимальных значений, т.е. из 60-70 миль в неделю. Рассмотрим, каким должен быть стандартый недельный план не позднее, чем за месяц до гонки. Если вы можете достичь этого за два месяца до, то это даже лучше. Каждый тренировочный день будет рассмотрен детально позже.
+
+- Пн: 5-10 миль 
+- Вт: скоростная работа. 5 миль.
+- Ср: 5-10 миль     
+- Чт: скоростная работа. 5-6 миль
+- Пт: 5 миль или день отдыха
+- Сб: 35-40 миль - длинная
+- Вс: выходой, проведите его со своей семьей. 
+
+> The long run: The weekly long run is the most important factor in your training plan. 
     The last long run prior to the race should be in the 35 to 40 mile range. 
-Последеняя длинная тренировка перед забегом должна быть в диапазоне 35-40 миль. 
-
-
     Your goal should be to complete the long run and while tired, you should feel that you are strong and could easily continue running, especially after a short 10 minute rest. 
-Ваша цель состоит в том, чтобы завершив эту тренировку и устав от нее, с другой стороны вы должны ощущать возможноть продолжить бег, особенно после 10 минутного отдыха.
-
     This is a training run and not a competition. 
-Ведь это не гонка, а пока только тренировка.     
-
     If you are worn out on a 40 mile training run, you have trained too fast. 
-Если вы слишком устали на 40 милях, то это значит, что вы бежали слишком быстро.    
-
     The long run, for the vast portion of the run, should be in an aerobic state. 
-Основная часть длинной тренировки должна проводиться в аэробном режиме. 
-
     Only on a few large hills should you get to an anaerobic state. 
-И только на некоторых больших подъемах вы можете вылетать в анаэробную зону.
-
     If you find that you are in an extended anaerobic state, cut back on the pace. 
     We are practicing to run far, not fast. 
-Если вы ощутили, что превысили свой анаэробный порог, то сразу сбрасывате темп - ведь вы тренируемся для длинного бега, а не для быстрого.    
-
     Occasionally during the long run add in a quarter mile or half mile "frolic" increasing your speed noticeably. 
     This will use other muscles and break the monotony of the long slow run. 
-Иногда, кончено, стоит "порезвиться". Включайте в свои длинные тренировки от 400 до 800 метров быстрых. Это позволит использовать другие мышцы и сломать монотонность длинного медленного бега. 
-
-
     Some runners prefer to combine the long run with an actual ultra event. 
     Participating in a 50K or 50M event is fine as long as you remember you are in training and not competing. 
-Некоторые бегуны предпочитают совещать свои длинные тренировки с подходящими забегами. И это хорошо пока вы помните, что вы на тренировке, а не на главном забеге.
-
-
     Whatever the event, you want to feel good at the completion of the race; I like to say "used but not used up." I would not participate in any 50M race event within 30 days of the 100 mile race date. 
-Каким бы не было событие главное, чтобы вы чувствовали себя хорошо после него. Мне нравиться говорить: "вы использовали, а не вас". В любом случаем, никаких гонок на 50М не должно быть за 30 дней до старта на 100М.
-
     Much can be learned in an actual event from both the experience as well as other runners. 
-Конечно, реальная гонка дает больше опыта, как и общение с другими бегунами во время нее. 
-
     You must fight the urge to compete; you are training! The exception to the non competition rule is if the event is more than 90 days prior to 100 mile race day. 
-И главное, вы должны бороться с желанием соревноваться, помните: вы на тренировке! Исключения возможны только в том случае, если старт отстоит более чем на 90 дней до гонки на 100М. 
-
     Long runs early in the training program may be in the 15 to 20 mile range working up to the final 35 to 40 mile range over a period of months. 
-В начале вашей подготовки длинные тренировки должны быть в диапазоне от 15 до 20М. С тем, чтобы в дорасти до 35-40 в течении нескольких месяцев.    
-
     The long run distance does not always have to increase each week.
-Дистанцию длинных тренировко не нужно увеличивать каждую неделю.      
-
     Some weeks you may choose to run shorter for a variety of reasons from time available to simple tiredness. 
-В некоторые недели вы можете предпочесть более короткие дистанции. В зависимоти от возможностей и усталости.
-
     A typical weekly long run schedule for a typical month might look like:
-Вот примерная раскладка длинных тренировок по неделям:
-
-<br>
-
     Week 1 - 20 miles (or possibly less early in the training program) 
-Неделя 1: 20М (или даже меньше в самом начале подготовки)    
 
-<br>    
 
     Week 2 - The long run distance from last month's week 4
-Неделя 2: дистанция должна равняться той, что вы пробежали на 4 неделе предыдущего месяца.    
 
-<br>    
+
 
     Week 3 - Rest day, no long run this week
-Неделя 3: отдых, не нужно бегать длинную на этой неделе.    
 
-<br>
+
 
     Week 4 - Add 5 miles to this month's week 2 mileage.
-Неделя 4: добавте 5М к дистанции 2 недели этого месяца.    
 
-<br>
 
     Such a schedule would allow you to work up from a 20 mile long run to a 40 mile long run over a period of 4 months.
+
+
+**Длинная тренировка:** Еженедельная длииная тренировка - важнейший вещь в вашем плане. Последеняя длинная тренировка перед забегом должна быть в диапазоне 35-40 миль. Ваша цель состоит в том, чтобы завершив эту тренировку и устав от нее, с другой стороны вы должны ощущать возможноть продолжить бег, особенно после 10 минутного отдыха. Ведь это не гонка, а пока только тренировка. Если вы слишком устали на 40 милях, то это значит, что вы бежали слишком быстро. Основная часть длинной тренировки должна проводиться в аэробном режиме. И только на некоторых больших подъемах вы можете вылетать в анаэробную зону. Если вы ощутили, что превысили свой анаэробный порог, то сразу сбрасывате темп - ведь вы тренируемся для длинного бега, а не для быстрого. Иногда, кончено, стоит "порезвиться". Включайте в свои длинные тренировки от 400 до 800 метров быстрых. Это позволит использовать другие мышцы и сломать монотонность длинного медленного бега. Некоторые бегуны предпочитают совещать свои длинные тренировки с подходящими забегами. И это хорошо пока вы помните, что вы на тренировке, а не на главном забеге. Каким бы не было событие главное, чтобы вы чувствовали себя хорошо после него. Мне нравиться говорить: "вы использовали, а не вас". В любом случаем, никаких гонок на 50М не должно быть за 30 дней до старта на 100М. Конечно, реальная гонка дает больше опыта, как и общение с другими бегунами во время нее. И главное, вы должны бороться с желанием соревноваться, помните: вы на тренировке! Исключения возможны только в том случае, если старт отстоит более чем на 90 дней до гонки на 100М. В начале вашей подготовки длинные тренировки должны быть в диапазоне от 15 до 20М. С тем, чтобы в дорасти до 35-40 в течении нескольких месяцев. Дистанцию длинных тренировко не нужно увеличивать каждую неделю. В некоторые недели вы можете предпочесть более короткие дистанции. В зависимоти от возможностей и усталости. 
+
+Вот примерная раскладка длинных тренировок по неделям:
+
+- Неделя 1: 20М (или даже меньше в самом начале подготовки)    
+- Неделя 2: дистанция должна равняться той, что вы пробежали на 4 неделе предыдущего месяца.    
+- Неделя 3: отдых, не нужно бегать длинную на этой неделе.    
+- Неделя 4: добавте 5М к дистанции 2 недели этого месяца.    
+
 Таким образом, вы увеличите свои пробежки с 20м до 40 в течении 4 месяцев.
 
-</абзац>    
     
     Night Runs: At least two of your long runs should be at night. They should start at such time as you will complete the training run in the 3 am to 6 am time period. I suggest that you do this run on a Friday night after a full day at work. Have a nice meal with your family or friends and then after full dark begin your run. If possible, try to find a training venue that will mimic the actual race course. If not available, work on a training course that is tougher than the race course. The night run will let you get some experience for how you will feel running on race night. You can also get experience with different types of light sources and see which you like best. You can also work with different types of clothing for cooler weather as well as how you can best stay awake. For me, simple activity and the caffeine in Pepsi is enough to do the trick. Some folks seem to have a difficult time staying awake after midnight and want to take cat naps. While this works for some folks, the clock is still ticking and the stiffness you experience at the end of the nap is, at best, unpleasant. Do whatever it takes to keep moving and not nap.
+
+**Ночная тренировка:** Как минимум две из ваших длинных тренировок должны быть ночными. Начинать их имеет смысл так, чтобы завешить их в период от 3 до 6 утра. Полагаю, что вы будете проводить их в ночь с пятницы на субботу, после работы. Вы сможете поужинать с семьей или друзьями, а после того, как стемнеет, отправиться на пробежку. Если это возможно, то нужно найти трассу как можно более похожую на трассу будущего забега. Если это не получается, то выбирайте наиболее сложный варинат. Ночные тренировки дадут вам представление о том, как вы будете себя ощущать на ночной части гонки. Вы так же сможете поэксперементировать с разными типами фонарей, чтобы выбрать тот, что лучше всего вам подходит. Кроме того, стоит попробовать разные наборы одежды для ночной прохлады, а так же, как лучше всего оставаться бодрым (Для меня вполне достаточно просто двигаться и кофеина из Пепси). Некоторые люди имеют проблемы с тем, чтобы бодрствовать после полуночи и хотели бы вздремнуть. Это работае для некоторых людей, но при этом учтите, что часы не останавливаются, т.ч. имеет смысл сделать все возможное, чтобы не заснуть и продолжать движение.
     
     Inclement weather training: Do not cancel your long run plans for simple inclement weather like rain. Races are very, very rarely cancelled for inclement weather and then it is usually massive snow on the course, hurricane damage or forest fires that cause such cancellations. The Umstead 100 has been run in temperatures of from 28 degrees at night to 86 degrees during the day. We have had rain, sleet, wind and lighting; the clock kept running during all these inclement weather periods. Actually our norms are 68 degrees F high, 45 degrees F low and sunny but sometimes we don't get the norms. Learn to run in the rain. What clothes do I need and how am I going to handle it? There is no substitute for experience; just don't get your first inclement weather experience during the race.
+
+**Тренировки в прохую погоду:** Никогда не отменяйте свои длинные пробежки из-за плохой погоды, вроде дождя. Гонки очень-очень радко отменяют из-за погодных условий, за исключением снежных завалов на трассе, ураганы или лесные пожары. Например, Umstead 100 проводился даже при температуре от -2 ночью до +30 в течении одного дня. У нас бывали ливни, мокрый снег, сильнейшие ветры и молнии, но часы продолжали работать при всех этих катаклизмах. Обычно наши гонки проходят при от +7 до +20 и при солнце, но "обычно" не значит "всегда". Посему, учитесь бегать в дождь. Что надеть и как с этим всем быть? Получить ответы на все эти вопросы можно только с опытом, потому важно не откладывать получение такого опыта на гонку.
     
     The long run and eating: The long run must also incorporate eating and drinking training and experimentation. Again, more runners are lost to lack of energy from not eating properly than for muscle fatigue. On any run over 10 miles in length, you should integrate eating and drinking training. You need to train your body to process food and liquid while on the run and train how to eat, if not on the run, then at least on the walk. Many first timers spend entirely too long in aid stations eating and drinking. After food selection, most of the eating can be done on the walk while you are making progress towards your goal. Just 3 minutes extra in 20 aid stations is a full hour lost in making forward progress; which is a loss of 3 miles of progress for most folks. If you are on the bubble for either a 24 or 30 hour finish, you will wish you had those miles in the bank near the end of the race rather than having to push harder to make the goal. If you must stop for longer than 1 or 2 minutes, be sure you sit down and get the weight off your feet.
     
